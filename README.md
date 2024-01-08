@@ -71,5 +71,3 @@ Mapa ubicación             |
 
 
 <hr>
-
-Si te ha resultado útil este repositorio, por favor dale una :star: ¡Gracias!
