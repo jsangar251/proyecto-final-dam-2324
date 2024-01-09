@@ -27,7 +27,7 @@ Se permite a los estudiantes elegir el tema de su trabajo y las tecnologías a u
 
 Se deberá presentar obligatoriamente un anteproyecto antes del `fecha por determinar` donde se especifique, en términos generales, los objetivos del proyecto, temática, título, tecnologías utilizadas y un borrador de la aplicación. Si en el plazo de una semana, el profesorado de 2º DAM no ha reportado ninguna incidencia, el alumno podrá proseguir con su proyecto.
 
-# Revisión (checkpoint)
+# Horizonte de sucesos (revisión)
 Antes de `fecha por determinar`, los alumnos que estén desarrollando su proyecto final de ciclo, deberán subir obligatoriamente a Github una primera versión funcional del proyecto, además de:
 
 - Código actualizado.
