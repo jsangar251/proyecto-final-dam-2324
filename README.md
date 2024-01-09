@@ -27,19 +27,7 @@ A continuación se listan los enlaces a los repositorios de GitHub donde están 
 Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** junto con el **título del proyecto**, seguido de un **enlace directo al repositorio** (no a la página de Github del alumno). 
 Cada alumno debe editar este fichero y hacer una pull request a este repositorio para incluir sus datos. Se ruega respetar el orden de lista.
 
-* Alvarado Díaz, Irene - [CuidaAMiMascota](https://github.com/IreneAlvaradoDiaz/cuida-a-mi-mascota.git) -ionic
-* Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia/ProyectoFinalTask4Home) - Android
-* De Abrisqueta Rangel, Ander - [HarenaProjectApp](https://github.com/AnderDeAbrisqueta/HarenaProjectApp) - Ionic 
-* Estada Cobo, Jose Manuel - [Newsuty](https://github.com/JoseEstradaC/Newsuty-Proyecto) - Android
-* Gutierrez Ramirez, Jesús - [GymAndEat](https://github.com/Jesus-GR/ProyectoIntegradoDam2022)- Ionic
-* López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
-* Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/femore) - Ionic && Android
-* Morales Aragón, Marcos - [DreamTeam](https://github.com/MarcosMoralesAragon/dreamTeam) - Ionic
-* Rodríguez Barbero Verdera, David - [Matters](https://github.com/Davidrbv/Matters) - Ionic
-* Rosales Girón, José Antonio - [MyEntertainmentList](https://github.com/joseantoniorosales/MyEntertainmentList) - Android
-* Sevilla Valderrama Fernando - [Invisible Friend](https://github.com/FESEVA/invisibleFriend-project) - Ionic && Android
-* Torres Barba, Pedro - [Bravekey](https://github.com/torrespedrob/BraveKey-Android) - Android
-* Salmerón Robles, Gonzalo José - [Yummy!](https://github.com/gonzalosalmeron/yummy) - Android
+* Apellidos, Nombre - [Nombre repositorio](link repo)
 ----------------------------------
 Convocatoria extraordinaria:
 
