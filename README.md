@@ -1,6 +1,6 @@
 # Proyecto final DAM 2023/24
 
-En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2023-2024 y el turno de tarde.
+En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2023-2024 en el turno de tarde.
 
 ## Índice
 
