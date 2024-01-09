@@ -1,17 +1,23 @@
 # Proyecto final DAM 2023/24
 
-En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2023-2024.
+En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2023-2024 y el turno de tarde.
 
 ## Índice
 
-* [Requisitos y criterios](#requisitos-y-criterios-a-seguir)
+* [Requisitos y criterios](/criterios/generales.md)
 * [Relación de proyectos](#relación-de-proyectos)
 * [Calendario período ordinario](#calendario-período-ordinario)
 * [Calendario período extraordinario](#calendario-período-extraordinario)
 
-## Requisitos y criterios a seguir
+## Presentaciones
 
-Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/IESCampanillas/proyectos-dam-2022/wiki).
+La duración de cada exposición será de 15 minutos (5 de exposición, 5 de demo y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. 
+
+La exposición se realizará completamente en castellano.
+
+El alumno deberá explicar por sí mismo el funcionamiento de la aplicación y no podrá apoyarse en vídeos autoexplicativos.
+
+El alumno deberá acudir a la presentación del proyecto vestido correctamente (no se admitirá ropa excesivamente informal como chándal, chanclas, bañador, gorra, etc.)
 
 ## Relación de proyectos
 
@@ -46,7 +52,7 @@ Convocatoria extraordinaria:
 
 ## ⏰ Cuadrante horario de las exposiciones
 
-La duración de cada exposición será de 15 minutos (5 de exposición, 5 de demo y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
+Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
 
 
 # Calendario período extraordinario
