@@ -34,7 +34,7 @@ Convocatoria extraordinaria:
 # Calendario período ordinario
 
 ## 🗓️ Fechas a tener en cuenta
-* Anteproyecto: `por determinar`
+* Anteproyecto: 5 de abril de 2024
 * Revisión (checkpoint): `por determinar`
 * Entrega de proyecto: `por determinar`
 * Exposiciones: `por determinar`
