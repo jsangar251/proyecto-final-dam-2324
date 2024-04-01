@@ -1,3 +1,25 @@
 # Desarrollo de interfaces
 
-Para cumplir los requisitos del módulo Desarrollo de interfaces, la aplicación a desarrollar deberá ...
+## Requisitos mínimos
+Los criterios mínimos para el proyecto integrado en el módulo “Desarrollo de Interfaces” son:
+- Crear un prototipo de la aplicación.
+- Crear un informe que aporte valor a los usuarios.
+
+### Prototipo
+Crear un prototipo en Figma (u otra aplicación similar) aplicando los criterios para el desarrollo de interfaces de usuario:
+- Seleccionar un color dominante asociado a esa temática.
+- Seleccionar una fuente para el prototipo.
+- Seleccionar colores para la fuente y background de forma equilibrada.
+- Aplicar criterios para la distribución de los componentes de la interfaz.
+- Aplicar criterios de usabilidad y accesibilidad.
+
+### Informe
+Crear un informe utilizando Power BI Desktop:
+- El informe deberá utilizar como fuente de información el archivo generado con Python.
+- Deberá contener, al menos, una tarjeta que muestre algún valor genérico relevante de la aplicación.
+- Deberá contener, al menos, un gráfico de columnas ordenador por uno de sus valores.
+- Deberá contener, al menos, un gráfico circular que muestre información importante adicional en el tooltip.
+- Deberá contener, al menos, una tabla que muestre información importante de la aplicación.
+- Deberá contener un slider que permita filtrar los valores de todos los gráficos.
+- Se valorará la inclusión de un mapa coroplético que muestre información según distintas zonas geográficas.
+- El informe deberá seguir la misma temática de colores y fuentes que la aplicación desarrollada.
