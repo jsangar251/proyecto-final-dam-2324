@@ -28,6 +28,10 @@ Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** 
 Cada alumno debe editar este fichero y hacer una pull request a este repositorio para incluir sus datos. Se ruega respetar el orden de lista.
 
 * Apellidos, Nombre - [Nombre repositorio](link repo)
+* Frías Campos, Pablo [Raura](https://github.com/PabloFriasCampos/Raura)
+* García Sevilla, Luis Miguel [C-Chat](https://github.com/LuisM0112/C-Chat)
+* López Ríos, Antonio José []()
+* Reina Romero, Jorge [GoodLook](https://github.com/JorgeReina/GoodLook)
 ----------------------------------
 Convocatoria extraordinaria:
 
