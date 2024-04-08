@@ -30,7 +30,7 @@ Cada alumno debe editar este fichero y hacer una pull request a este repositorio
 * Apellidos, Nombre - [Nombre repositorio](link repo)
 * Frías Campos, Pablo - [Raura](https://github.com/PabloFriasCampos/Raura)
 * García Sevilla, Luis Miguel - [C-Chat](https://github.com/LuisM0112/C-Chat)
-* López Ríos, Antonio José - []()
+* López Ríos, Antonio José - [Proyect Codec](https://github.com/aloprio/proyect-codec)
 * Moreno Garrido, Alejandro - [SaiyaGym](https://github.com/AMorGar/SaiyaGym)
 * Muñoz García, Pablo Javier - [uSure](https://github.com/PabloJavier22/TFG_uSure-)
 * Pop, Iount Grigore - [Selecta](https://github.com/popionut/Selecta)
