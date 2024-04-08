@@ -15,7 +15,6 @@ Crear un prototipo en Figma (u otra aplicación similar) aplicando los criterios
 
 ### Informe
 Crear un informe utilizando Power BI Desktop:
-- El informe deberá utilizar como fuente de información el archivo generado con Python.
 - Deberá contener, al menos, una tarjeta que muestre algún valor genérico relevante de la aplicación.
 - Deberá contener, al menos, un gráfico de columnas ordenador por uno de sus valores.
 - Deberá contener, al menos, un gráfico circular que muestre información importante adicional en el tooltip.
