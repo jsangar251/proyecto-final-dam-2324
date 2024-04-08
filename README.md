@@ -35,7 +35,8 @@ Cada alumno debe editar este fichero y hacer una pull request a este repositorio
 * Muñoz García, Pablo Javier - [uSure](https://github.com/PabloJavier22/TFG_uSure-)
 * Pop, Iount Grigore - [Selecta](https://github.com/popionut/Selecta)
 * Reina Romero, Jorge - [GoodLook](https://github.com/JorgeReina/GoodLook)
-* Linero, Ángel - [FanaticsF1](https://github.com/Angelinero48/FANATICSF1)
+* Linero Cano, Ángel - [FanaticsF1](https://github.com/Angelinero48/FANATICSF1)
+* Navas Rodríguez, Amanda / Gallardo Peral, Benito - [HomeSolution](https://github.com/AmandaCode1/HomeSolution)
 ----------------------------------
 Convocatoria extraordinaria:
 
