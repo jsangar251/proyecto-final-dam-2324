@@ -34,7 +34,7 @@ Cada alumno debe editar este fichero y hacer una pull request a este repositorio
 * López Ríos, Antonio José - [Proyect Codec](https://github.com/aloprio/proyect-codec)
 * Moreno Garrido, Alejandro - [SaiyaGym](https://github.com/AMorGar/SaiyaGym)
 * Muñoz García, Pablo Javier - [uSure](https://github.com/PabloJavier22/TFG_uSure-)
-* Ortiz Corchero, David - [???](???)
+* Ortiz Corchero, David - [Sora](https://github.com/DavidOrtizz/TFG-Sora)
 * Pop, Iount Grigore - [Selecta](https://github.com/popionut/Selecta)
 * Reina Romero, Jorge - [GoodLook](https://github.com/JorgeReina/GoodLook)
 * Linero Cano, Ángel - [FanaticsF1](https://github.com/Angelinero48/FANATICSF1)
